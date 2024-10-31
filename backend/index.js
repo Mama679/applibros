@@ -1,4 +1,8 @@
 /**
  *  Modulos nativos Node Js
  */
-console.log("Inicio");
+const {createHash} = await import("node:crypto");
+import dotenv from "dotenv";
+
+dotenv.config();
+console.log(process.env.URL_BASE_DATOS);
