@@ -1,0 +1,24 @@
+{
+  "name": "cursos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec 'ts-node' src/index.js"
+  },
+  "keywords": [],
+  "author": "Mario Manotas Durán",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.8.6",
+    "@types/express": "^5.0.0",
+    "prisma": "^5.21.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.21.1",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
