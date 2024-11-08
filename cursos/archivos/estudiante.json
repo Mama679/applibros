@@ -1,0 +1,32 @@
+[
+    {
+        "nombre":"Mario",
+        "apellido":"Manotas",
+        "email":"mmanotas@hotmail.com",
+        "hobies":["futbol","cabalgar"],
+        "telefonos":{
+            "casa":3606666,
+            "celular":310270160
+        }
+    },
+    {
+        "nombre":"Rita",
+        "apellido":"Hernandez",
+        "email":"rita.hernandez@gmail.com",
+        "hobies":["Gimnasio","Correr"],
+        "telefonos":{
+            "casa":55566666,
+            "celular":310212364
+        }
+    },
+    {
+        "nombre":"Jhon",
+        "apellido":"Doe",
+        "email":"jdoe@hotmail.com",
+        "hobies":["nadar","caminar"],
+        "telefonos":{
+            "casa":3233223,
+            "celular":3102023646
+        }
+    }
+]
